@@ -1,0 +1,11 @@
+You have put your information on a file
+Welcome to the Virtual COVID-19 test
+Please Provide your current health information
+This Patient is Normal
+This Patient Has breathing problem
+This Patient Has dry cough
+This Patient Has throat pain
+This Patient Has normal fever
+This Patient Has normal cough
+This Patient Has normal breathing problem
+If most of the answer is yes then you should contact to your nearby COVID-19 testing lab to colect your sample
